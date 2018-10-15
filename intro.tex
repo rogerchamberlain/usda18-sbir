@@ -1,0 +1,132 @@
+\section{Introduction}
+\label{sec:intro}
+
+The Internet of Things (IoT) is ushering in an era where significant numbers
+of devices that perform monitoring and control functions (e.g., process control,
+manufacturing, etc.) are connected via wired or wireless networks.
+Modern agriculture is a leader in experiencing this transformation,
+with ubiquitous data collection associated with planting, fertilizing,
+and harvesting of crops as well as with feeding, environmental control,
+and monitoring of livestock.
+BECS Technology, Inc., (BECS) is a small business that manufactures 
+monitoring and control equipment for a number of markets
+(agriculture, aquatics, refrigeration, etc.) and seeks to maximize the
+societal benefits of the data made available by this connectivity.
+However, the current data sharing models we employ (like most companies)
+limits each individual organization (farmer) to seeing only the data
+logs of equipment that it directly owns. 
+This data model significantly impedes the potential that could
+be realized.
+
+The benefits that would accrue from
+aggregating data across farms are substantial.
+For instance, this can lead to better
+feed conversion and
+diminished usage of feed, water, and electricity.
+We can use machine learning techniques to improve yields as well as
+catch health-related issues earlier.
+While these opportunities can and do provide real benefit to farmers,
+there are challenges related to security, privacy, and data communication that
+must be overcome.
+Both Kumar and Patel~\cite{kp14} and
+Vasilomanolakis et al.~\cite{vdlgw15} describe these challenges as being
+pervasive across all the IoT.
+
+We desire that the farmer/owners of IoT-based data share those data with
+the broader community (including their peers) for the benefit of all,
+but this will only happen if we can assure owners that their data will
+be kept private.
+This proposal seeks to explore the feasibility of cross-organizational
+data sharing by addressing the challenge of data privacy.
+Additionally, we explore incentives for farmers to participate as well
+as techniques for communicating aggregated data
+to farmers to encourage better decision-making.
+These latter two items are of particular importance to small and mid-size
+farms, which are extremely unlikely to have a data analyst on staff.
+
+Some high-profile examples~\cite{bz06,bk07} have illustrated the
+difficulty inherent in maintaining the privacy of individuals whose
+data are shared, even when anonymized.
+Differential privacy~\cite{dwork11,dr14} provides a formal framework
+for ensuring bounds on data leaks about individuals; however,
+a number of questions remain about its use in practical settings.
+
+What we propose to investigate in this SBIR project is how to transition
+the theory of differential privacy into useful practice on agricultural data,
+how to incentivize farmers to participate,
+and how to communicate such aggregated data back to the farmers.  
+Differential privacy provides strong guarantees that no incremental harm
+comes to an individual (in our case, a farmer) if they choose to share
+their private data with a common database maintained by a trusted curator.
+Statistical queries to that database have added noise included in
+query responses to preserve privacy.
+This added noise introduces uncertainty to the data,
+making effective communication a primary challenge. 
+
+The privacy theory is robust and quite strong.  What remains is transition into
+practice, and there are a number of interesting questions that we intend
+to address as part of this investigation.
+\begin{itemize}
+\item Differential privacy's theory depends upon appropriate tuning of a number
+of parameters (e.g., $\epsilon$, $\delta$).  How the privacy budget impacts
+utility is not well understood.  We will investigate this relationship
+empirically in the context of agricultural data sets.
+\item How do we provide appropriate incentives to encourage farmers to
+provide their data for the common good?
+\item How do we communicate to users both the query responses and the
+inherent associated uncertainty due to differential privacy?
+\item How do we combine the use of differential privacy with alternative
+approaches~\cite{ct13}, such as $k$-anonymity~\cite{samarati01,sweeney02} and
+$l$-diversity~\cite{mkgv07}?
+\end{itemize}
+BECS will serve as the trusted curator of the database (it is already serving
+that role, providing segregated access to individual farmers of their own data).
+We will investigate how previous privacy-preserving machine learning
+experience~\cite{acgmmtz16,ss15} translates into the space of agricultural data,
+what incentives are appropriate and effective~\cite{hssv15},
+and how visualization can be used by
+laypersons~\cite{ottley2012visually} in the context of anonymized data.
+
+This proposal is responsive to topic area 8.3~Animal Production and Protection
+as articulated in the FY~2018 Request for Applications from NIFA.
+Specifically, success in the proposed research will address two of the research
+priorities of the USDA within this topic area:
+\begin{itemize}
+\item Priority 1. Improve production efficiency
+\item Priority 3. Improve animal health and well-being
+\end{itemize}
+The availability of shared data can be a strong driver to benefit both of
+the above priorities.
+
+In addition, while we are submitting to topic area 8.3,
+we see this proposal as also responsive to topic area 8.12~Small and
+Mid-Size Farms.  While larger commercial organizations often have access
+to extensive data sets of their own, it is the smaller farms that stand to
+benefit the most from aggregating data across farms.
+
+The commercial opportunities are significant.
+Currently, farmers pay a monthly fee for a data service provided by
+BECS, called Feed-Link, in which each farm's equipment makes periodic
+contact with BECS's servers (in the cloud). All the data collected during
+that period by the equipment is uploaded to a persistent database (also
+maintained in the cloud). Farmers then have access to data collected from
+their equipment in a number of forms, an illustration of the Feed-Link
+dashboard is described in Section~\ref{sec:agIoT}.
+
+At the simplest level, success in this research will enable farmers to
+not only have access to the data they already own, but it will also provide
+access to data from a much larger collection of farms (all the while,
+preserving the privacy of the farmers that have voluntarily provided
+those data). This can be an important commercial opportunity for BECS
+in two ways: (1)~data that are more valuable to the farmers will likely
+support a higher price point for the monthly data service, and (2)~increased
+data value will also increase the number of farmers likely to subscribe.
+
+The successful completion of this research is important commercially on
+a much broader scale as well.  While the initial implementation of the
+system will target equipment manufactured by BECS, the technology is
+potentially useful in a much broader setting.  One can envision a
+stand-alone data marketplace in which the aggregation of mutually
+contributed data that are then shared (in a privacy preserving way)
+with the participants to be very attractive to anyone who can benefit
+materially from the collected data set.

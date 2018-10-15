@@ -1,0 +1,246 @@
+\section{Research Team and Plan}
+\label{sec:plan}
+
+Here, we describe the research team that will
+perform the investigations we propose, and then follow that with
+the our collaboration plan and timeline for Phase~I along with
+our current thoughts concerning the Phase~II effort.
+
+\subsection{Team}
+
+Organized in 1991, BECS is privately held and employs approximately 100
+people. It has outgrown its current
+manufacturing facility of 24,000 sq.~ft.\ so is in the process of
+renovating and moving into a new 42,000 sq.~ft.\ facility.
+Its intellectual property is protected with 12 issued patents and
+2 patents pending.
+
+The design engineering team at BECS is comprised of 10 individuals, of
+which Todd Steinbrueck is the software team lead (who will serve as
+PI on the SBIR grant) and Roger Chamberlain is the VP Engineering (who
+will serve as senior personnel on the SBIR grant).\footnote{Roger Chamberlain
+also is Professor of Computer Science and Engineering at Washington
+University in St.~Louis. While bringing over 25 years of research
+experience to bear on the problem at hand, Dr.~Chamberlain will be
+serving in his capacity as VP Engineering at BECS and will maintain
+strict compliance with the conflict-of-commitment rules at the the university.}
+Additional members of the design engineering team will contribute to
+the effort as needed. 
+%Mr.~Steinbrueck and Dr.~Chamberlain will each
+%commit \roger{XX} of time to the project, and BECS will dedicate
+%an additional
+%one FTE of software engineering effort (as articulated in the budget).
+
+This team has extensive experience in control equipment design and
+implementation, including custom implementation of both the hardware and
+the software. Presently, BECS designs and manufactures equipment for
+animal husbandry (the focus of this proposal),
+e.g., grain bin content monitoring,
+feed auger controls, environmental monitoring and control of animal houses;
+maintains proper water chemistry in aquatics systems;
+monitors and controls
+refrigeration in commercial settings, e.g., valve controllers that adapt
+automatically to different refrigerants;
+and delivers CATV signals, e.g., RF amplifiers, line extenders.
+
+BECS provides equipment to the agriculture industry under a private-label
+arrangement with Grain Systems, Inc. (GSI), a subsidiary of
+AGCO Corporation,
+which is a publicly traded company (NYSE:AGCO) with net sales
+of \$7.4~billion in 2016.
+GSI provides BECS equipment (and equipment manufactured by itself and others)
+to the market
+through both its Cumberland (poultry) and AP (swine) divisions.
+
+As the vision of IoT becomes a reality, equipment providers
+generally need to evolve so that they partner with end users
+(farmers in our case) to become a service company as well as a
+manufacturing company. BECS and GSI both aspire to this goal.
+Quoting from AGCO's
+website,\footnote{\url{www.agcocorp.com/brands/gsi.html}}
+``Grain, swine, and poultry producers need more than equipment,
+they need full-scale solutions that boost overall performance
+and productivity.''
+
+As described in Section~\ref{sec:background}, BECS has supported
+remote connectivity to its equipment for years.  What is new is that
+rather than simply providing access to data (and expecting end users
+to make use of it on their own), BECS is increasingly finding ways to
+help end users by being actively involved in data analysis.
+While initial connectivity solutions
+merely supported pull semantics (i.e., users had to
+manually connect to the equipment to
+see what was going on), current systems actively contact users when
+conditions warrant (e.g., alarm conditions, feed stocks depleted),
+pushing information to farmers on demand.
+Through the combination of functionality within the control equipment 
+and data services provided via the cloud, the vision is one in
+which animal husbandry is simpler to execute,
+more efficient,
+less resource intensive (both in terms of human resources and
+feed and water resources), and results in healthier animals.
+
+%\roger{fix for Ag.}
+%
+%The existing business model is primarily based upon equipment sales.
+%Annual revenues for FY14 through FY16 are \$9.9 million, \$10.7 million,
+%and \$11.8 million, respectively
+%(with \$13 million predicted for FY17), across all the markets BECS
+%serves.\footnote{These revenue numbers are proprietary information.}
+%To sustain the level of service we aspire to deliver, there must be
+%a revenue stream to support the required effort.  Our vision here is
+%a subscription model, where end users pay a monthly fee for the
+%top tier service model.
+%This revenue stream is already a reality in the agricultural (Ag) market.
+%For a monthly fee, data from our Ag equipment is collected automatically
+%(by BECS), retained in the cloud, and made available to the appropriate
+%owner/operator (i.e., farmer).  Absent that monthly subscription,
+%owners/operators of the Ag equipment are free to collect their data
+%themselves, directly from the controller.
+%We anticipate the ability of BECS to provide privacy-preserving,
+%aggregated data access to aquatic control equipment to be well worth
+%the cost of a monthly subscription.
+
+BECS has received government funding on two separate occasions
+(see Section~\ref{sec:prior} for details), both of which were SBIR/STTR
+grants through the National Institutes of Health.  We currently
+have a pending application with the National Science Foundation
+that focuses on similar issues as this proposal but is targeted at
+the aquatics industry.
+
+We will collaborate on this SBIR project with Dr.~Alvitta Ottley,
+Asst.~Professor of Computer Science and Engineering at Washington University
+in St.~Louis, and Dr.~C.-J. Ho, also
+Asst.~Professor of Computer Science and Engineering at Washington University
+in St.~Louis.
+In this proposed agenda, Dr. Alvitta Ottley will lead the design
+of the visualization front-end of the system that will allow clients
+to interact with the data.
+Dr.~Ottley has built and evaluated a range of visualization tools
+and designs~\cite{brown2014finding, hakone2017proact,ottley2015personality,peck2013using}. 
+Relevant to the proposed work, her prior research has focused on designing visualizations to decision support~\cite{hakone2017proact,ottley2012visually,ottley2016improving} for non-experts. 
+Her work has also made significant advancement toward evaluating the effectiveness of visualization designs~\cite{peck2013using,ziemkiewicz2013visualization}, and understanding how users interactions with visualization tools~\cite{brown2014finding,ottley2015personality}.  
+%Dr.~Ottley will commit \roger{XX} of effort towards the project
+%in Phase~I.
+
+Dr.~Ho will investigate the design of incentives to motivate farmers to
+contribute their data. Dr. Ho's research has focused on the learning and incentive
+problems in human-in-the-loop systems. In particular, he has worked on designing
+reputation systems and monetary contracts to encourage online users
+to contribute high-quality data~\cite{HSV14,HZVS12}
+and measuring how users respond to incentives in 
+real-world applications~\cite{hssv15}.
+
+
+We will consult on the project with Dr.~Liyue Fan, Asst.~Professor
+of Information Security and Digital Forensics, University at Albany (SUNY).
+Dr.~Fan's research interests are in data privacy, spatiotemporal data
+analysis, and database applications.  Her research is one of two
+currently viable approaches to differentially private time series data,
+and is the one we plan to focus on in this project.
+Dr.~Fan will commit 2~weeks of effort towards the project.
+
+Together the proposal team has the necessary knowledge and experience to undertake the proposed work. 
+More specific information regarding coordination and collaboration plans is
+provided below.
+
+\subsection{Research Plan}
+
+The primary participants in the project all reside in St. Louis, Missouri,
+so face-to-face meetings have a relatively low overhead. We will coordinate
+the project through periodic (e.g., biweekly) meetings that alternate
+locations (one meeting at BECS Technology's facility, and two weeks later
+another meeting on campus at Washington Univ. in St. Louis).
+
+Dr. Fan is physically remote (she is in Albany, NY), so her primary
+method of interaction will be via electronic communication.  We will
+use video-conferencing fairly extensively when face-to-face discussions
+are warranted.  In addition, the Dept.~of Computer Science and Engineering
+at Washington University in St.~Louis
+will invite Dr.~Fan to present a colloquium on campus at or very near
+the beginning of the project.  This will enable all of the parties to
+have a true face-to-face interaction without any travel expense charged
+to the grant.
+
+A formal agreement will need to be put in place between the company and
+Washington~U.; however, the two organizations have collaborated in the
+past (on a previous STTR grant through the National Institutes of Health).
+The terms of that previous agreement will form the
+basis of the required new agreement, and we anticipate no difficulties
+in finalizing the agreement itself.
+
+The proposed research is suited for an eight-month research agenda.
+The schedule is shown in Figure~\ref{fig:gantt}.
+The various research components can initally be independently investigated,
+primarily in parallel by the two organizations, coming together
+in the assessments to be performed at the end of Phase~I.
+
+\begin{figure}[ht]
+\centering
+\setlength\tabcolsep{2pt}
+\begin{tabular}{l l | c c c c c c c c}
+\  & & \multicolumn{8}{c}{Month}\\
+\textbf{Task} & & 1 &  2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline
+\textbf{Data aggregation} & \S\ref{sec:da} & & & & & & & & \\
+-- {\small Implementation} &  & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & & & &  \\
+-- {\small Exploration of parameter space} &  & & & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & &  \\
+-- {\small Utility assessment} & & & & & & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & $\blacksquare$  \\ \hline
+\textbf{Formulating incentives} & \S\ref{sec:fi} & & & & & & &  \\
+-- {\small Experiment design} & & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & & & &  \\
+-- {\small Experiment execution} & & & & & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & &  \\
+-- {\small Results evaluation} & & & & & & & & $\blacksquare$ & $\blacksquare$  \\ \hline
+\textbf{Visualization} & \S\ref{sec:vis} & & & & & & &  \\
+-- {\small Experiment design} & & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & & & &  \\
+-- {\small Experiment execution} & & & & & $\blacksquare$ & $\blacksquare$ & $\blacksquare$ & &  \\
+-- {\small Results evaluation} & & & & & & & & $\blacksquare$ & $\blacksquare$  \\ \hline
+\textbf{Empirical evaluation} & \S\ref{sec:exp} & & & & & & & & \\
+-- {\small Customer recruitment} & & & & & & $\blacksquare$ & $\blacksquare$ & & \\ 
+-- {\small Customer evaluation} & & & & & & & & $\blacksquare$ & $\blacksquare$ \\
+\end{tabular}
+    \caption{Project schedule, eight month duration.}
+    \label{fig:gantt}
+\end{figure}
+
+The results of the assessments will inform
+the activities to be pursued during Phase~II.
+If the result of Phase~I is data that are appropriately anonymized,
+one can consider the focus of Phase~II to be the determination of
+what it is we can effectively learn from the anonymized data.
+
+The learning from data will come in two forms:
+\begin{itemize}
+\item {\bf Machine learning} -- we will investigate utilizing techniques
+described in the literature~\cite{acgmmtz16,fs10,ss15} for performing machine
+learning on differentially private data sets.
+We will apply techniques such as these to the problem of barn
+control, with the goal of diminishing feed consumption, providing
+tighter control, and improving feed conversion rates.
+\item {\bf Human learning} -- we will explore ways in which we can effectively
+communicate to laypersons an intuitive notion of ``privacy budget,'' and
+how to visualize risk, which has been studied in the
+management and
+financial space~\cite{Eppler09,Sarlin16}, but we are unaware of any
+work concerning privacy risk.
+\end{itemize}
+
+In addition to exploring what can be learned from data in a privacy
+preserving manner, there are a number of followup investigations that
+will be initiated during Phase~I but will require additional effort
+during Phase~II.  First, our initial efforts will be focused on time-series
+data; however, event data are also present in our data sets and we will
+need to investigate techniques for including them in properly anonymized
+form.
+
+Second, both our incentive and visualization investigations during
+Phase~I will be restricted to participants we recruit via Amazon's
+Mechanical Turk.  This gives us flexible and inexpensive access to
+willing participants, with a broad set of backgrounds.  However, we are
+particularly interested in the impact of these investigations on our target
+audience, farmers.  The Phase~II effort will include targeted studies
+to address this issue.
+
+Third, the incentive mechanisms during Phase~I will be limited to monetary
+incentives.  As we discover what can be learned from the aggregated data,
+it is entirely possible that simply access to this information is a
+sufficient incentive for farmers to be willing to participate.  This will
+also be a part of our Phase~II investigation.
