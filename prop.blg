@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: prop.aux
+The style file: abbrv.bst
+Database file #1: prop.bib
+Database file #2: cj.bib
+Database file #3: alvitta.bib
+Repeated entry---line 105 of file alvitta.bib
+ : @article{han2011communication
+ :                              ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Li17"
+Warning--I didn't find a database entry for "Wan15"
+Warning--I didn't find a database entry for "Wan17"
+Warning--I didn't find a database entry for "Xia15"
+Warning--can't use both volume and number fields in pothkow2011probabilistic
+Warning--there's a number but no volume in prassni2010uncertainty
+You've used 97 entries,
+            2118 wiz_defined-function locations,
+            1048 strings with 21632 characters,
+and the built_in function-call counts, 38221 in all, are:
+= -- 3727
+> -- 1945
+< -- 34
++ -- 778
+- -- 665
+* -- 2845
+:= -- 6137
+add.period$ -- 308
+call.type$ -- 97
+change.case$ -- 618
+chr.to.int$ -- 0
+cite$ -- 99
+duplicate$ -- 1405
+empty$ -- 2918
+format.name$ -- 665
+if$ -- 8097
+int.to.chr$ -- 0
+int.to.str$ -- 97
+missing$ -- 90
+newline$ -- 490
+num.names$ -- 198
+pop$ -- 667
+preamble$ -- 1
+purify$ -- 523
+quote$ -- 0
+skip$ -- 1038
+stack$ -- 0
+substring$ -- 2439
+swap$ -- 388
+text.length$ -- 34
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 386
+warning$ -- 2
+while$ -- 350
+width$ -- 99
+write$ -- 1081
+(There was 1 error message)

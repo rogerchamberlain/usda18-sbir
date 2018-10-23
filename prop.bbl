@@ -1,0 +1,604 @@
+\begin{thebibliography}{10}
+
+\bibitem{acgmmtz16}
+M.~Abadi, A.~Chu, I.~Goodfellow, H.~B. McMahan, I.~Mironov, K.~Talwar, and
+  L.~Zhang.
+\newblock Deep learning with differential privacy.
+\newblock In {\em Proc.\ of ACM SIGSAC Conf.\ on Computer and Communications
+  Security}, pages 308--318. ACM, 2016.
+
+\bibitem{mturk}
+{Amazon Mechanical Turk}, 2107.
+\newblock \url{http://www.mturk.com}, accessed Oct. 2017.
+
+\bibitem{bangor2008empirical}
+A.~Bangor, P.~T. Kortum, and J.~T. Miller.
+\newblock An empirical evaluation of the system usability scale.
+\newblock {\em Int'l Journal of Human-Computer Interaction}, 24(6):574--594,
+  2008.
+
+\bibitem{bz06}
+M.~Barbaro and T.~Zeller.
+\newblock A face is exposed for {AOL} searcher {No.} 4417749.
+\newblock {\em The New York Times}, Aug. 9, 2006.
+
+\bibitem{bk07}
+R.~Bell and Y.~Koren.
+\newblock Lessons from the {Netflix} prize challenge.
+\newblock {\em SIGKDD Explor. Newsl.}, 9(2), 2007.
+
+\bibitem{brodlie2012review}
+K.~Brodlie, R.~A. Osorio, and A.~Lopes.
+\newblock A review of uncertainty in data visualization.
+\newblock In {\em Expanding the Frontiers of Visual Analytics and
+  Visualization}, pages 81--109. Springer, 2012.
+
+\bibitem{brown2014finding}
+E.~T. Brown, A.~Ottley, H.~Zhao, Q.~Lin, R.~Souvenir, A.~Endert, and R.~Chang.
+\newblock {Finding Waldo}: Learning about users from their interactions.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  20(12):1663--1672, 2014.
+
+\bibitem{Buhler11}
+J.~Buhler, R.~Chamberlain, M.~Franklin, K.~Gyang, A.~Jacob, P.~Krishnamurthy,
+  and J.~Lancaster.
+\newblock Method and apparatus for performing similarity searching on a data
+  stream with respect to a query string.
+\newblock U.S. Patent \#7,917,299, issued Mar. 29, 2011.
+
+\bibitem{Buhler13}
+J.~Buhler, R.~Chamberlain, M.~Franklin, K.~Gyang, A.~Jacob, P.~Krishnamurthy,
+  and J.~Lancaster.
+\newblock Method and apparatus for performing similarity searching.
+\newblock U.S. Patent \#8,515,682, issued Aug. 20, 2013.
+
+\bibitem{Buhler17}
+J.~Buhler, R.~Chamberlain, M.~Franklin, K.~Gyang, A.~Jacob, P.~Krishnamurthy,
+  and J.~Lancaster.
+\newblock Method and apparatus for performing similarity searching.
+\newblock U.S. Patent \#9,547,680, issued Jan. 17, 2017.
+
+\bibitem{bljc07}
+J.~D. Buhler, J.~M. Lancaster, A.~C. Jacob, and R.~D. Chamberlain.
+\newblock Mercury {BLASTN}: Faster {DNA} sequence comparison using a streaming
+  hardware architecture.
+\newblock In {\em Proc.\ of Reconfigurable Systems Summer Institute}, July
+  2007.
+
+\bibitem{ccgss16}
+R.~D. Chamberlain, M.~Chambers, D.~Greenwalt, B.~Steinbrueck, and
+  T.~Steinbrueck.
+\newblock Layered security and ease of installation for devices on the
+  {Internet of Things}.
+\newblock In {\em Proc.\ of IEEE Int'l Conf.\ on Internet-of-Things Design and
+  Implementation}, pages 297--300. IEEE, Apr. 2016.
+
+\bibitem{ccgss17b}
+R.~D. Chamberlain, M.~Chambers, D.~Greenwalt, B.~Steinbrueck, and
+  T.~Steinbrueck.
+\newblock {Devices can be Secure and Easy to Install on the Internet of
+  Things}.
+\newblock In R.~Gravina, C.~Palau, M.~Manso, A.~Liotta, and G.~Fortino,
+  editors, {\em Interconnection, Integration, and Interoperability of IoT
+  Systems}. Springer, 2018.
+
+\bibitem{cgi03}
+R.~D. Chamberlain, J.~L. Goldstein, and D.~Ivanovich.
+\newblock Implementation of hearing aid signal processing algorithms on the {TI
+  DHP-100} platform.
+\newblock In {\em Proc.\ of 37th Asilomar Conf.\ on Signals, Systems and
+  Computers}, volume~1, pages 404--409, Nov. 2003.
+
+\bibitem{CCK+16}
+Y.~Chen, S.~Chong, I.~A. Kash, T.~Moran, and S.~Vadhan.
+\newblock Truthful mechanisms for agents that value privacy.
+\newblock {\em ACM Trans. Econ. Comput.}, 4(3):13:1--13:30, Mar. 2016.
+
+\bibitem{ct13}
+C.~Clifton and T.~Tassa.
+\newblock On syntactic anonymity and differential privacy.
+\newblock {\em Trans.\ in Data Privacy}, 6:161--183, 2013.
+
+\bibitem{correll2014error}
+M.~Correll and M.~Gleicher.
+\newblock Error bars considered harmful: Exploring alternate encodings for mean
+  and error.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  20(12):2142--2151, 2014.
+
+\bibitem{dlmbc10}
+R.~Dor, J.~M. Lancaster, M.~A. Franklin, J.~Buhler, and R.~D. Chamberlain.
+\newblock Using queuing theory to model streaming applications.
+\newblock In {\em Proc.\ of Symposium on Application Accelerators in High
+  Performance Computing}, July 2010.
+
+\bibitem{dwork11}
+C.~Dwork.
+\newblock A firm foundation for private data analysis.
+\newblock {\em Communications of the ACM}, 54(1):86--95, 2011.
+
+\bibitem{dr14}
+C.~Dwork and A.~Roth.
+\newblock The algorithmic foundations of differential privacy.
+\newblock {\em Foundations and Trends\textsuperscript{\textregistered{}} in
+  Theoretical Computer Science}, 9(3-4):211--407, 2014.
+
+\bibitem{Eppler09}
+M.~J. Eppler and M.~Aeschimann.
+\newblock A systematic framework for risk visualization in risk management and
+  communication.
+\newblock {\em Risk Management}, 11(2):67--89, 2009.
+
+\bibitem{fx12}
+L.~Fan and L.~Xiong.
+\newblock Real-time aggregate monitoring with differential privacy.
+\newblock In {\em Proc.\ of 21st ACM International Conference on Information
+  and Knowledge Management}, pages 2169--2173, New York, NY, USA, 2012. ACM.
+
+\bibitem{fx14}
+L.~Fan and L.~Xiong.
+\newblock An adaptive approach to real-time aggregate monitoring with
+  differential privacy.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  26(9):2094--2106, Sept. 2014.
+
+\bibitem{Fawcett06}
+T.~Fawcett.
+\newblock An introduction to {ROC} analysis.
+\newblock {\em Pattern Recognition Letters}, 27(8):861--874, June 2006.
+
+\bibitem{fs10}
+A.~Friedman and A.~Schuster.
+\newblock Data mining with differential privacy.
+\newblock In {\em Proc.\ of 16th ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining}, pages 493--502, New York, NY, USA,
+  2010. ACM.
+
+\bibitem{gefen2000relative}
+D.~Gefen and D.~W. Straub.
+\newblock The relative importance of perceived ease of use in {IS} adoption: a
+  study of e-commerce adoption.
+\newblock {\em Journal of the Association for Information Systems}, 1(1):8,
+  2000.
+
+\bibitem{GR11}
+A.~Ghosh and A.~Roth.
+\newblock Selling privacy at auction.
+\newblock In {\em Proc. of 12th ACM Conference on Electronic Commerce}, pages
+  199--208, 2011.
+
+\bibitem{Goldstein05a}
+J.~L. Goldstein.
+\newblock Hearing aids based on models of cochlear compression.
+\newblock U.S. Patent \#6,868,163, issued Mar. 15, 2005.
+\newblock Assigned to Hearing Emulations, LLC.
+
+\bibitem{Goldstein05b}
+J.~L. Goldstein.
+\newblock Hearing aids based on models of cochlear compression using adaptive
+  compression thresholds.
+\newblock U.S. Patent \#6,970,570, issued Nov. 29, 2005.
+\newblock Assigned to Hearing Emulations, LLC.
+
+\bibitem{gc03}
+J.~L. Goldstein and R.~D. Chamberlain.
+\newblock Hearing aids based on models of cochlear compression.
+\newblock European Letters Patent \#EP 1 121 834, issued Apr. 2, 2003.
+\newblock Assigned to Hearing Emulations, LLC.
+
+\bibitem{gogv03}
+J.~L. Goldstein, M.~Oz, P.~Gilchrist, and M.~Valente.
+\newblock Signal processing strategies and clinical outcomes for gain and
+  waveform compression in hearing aids.
+\newblock In {\em Proc.\ of 37th Asilomar Conference on Signals, Systems and
+  Computers}, volume~1, pages 391--398, Nov. 2003.
+
+\bibitem{gvc01}
+J.~L. Goldstein, M.~Valente, and R.~D. Chamberlain.
+\newblock Acoustic and psychoacoustic benefits of adaptive compression
+  thresholds in hearing aid amplifiers that mimic cochlear function.
+\newblock {\em J. Acoust. Soc. Am.}, 109:2355(A), 2001.
+
+\bibitem{gvcgi00}
+J.~L. Goldstein, M.~Valente, R.~D. Chamberlain, P.~Gilchrist, and D.~Ivanovich.
+\newblock Pilot experiments with a simulated hearing aid based on models of
+  cochlear compression.
+\newblock In {\em Proc.\ of International Hearing Aid Research Conference},
+  Aug. 2000.
+
+\bibitem{griethe2005visualizing}
+H.~Griethe and H.~Schumann.
+\newblock Visualizing uncertainty for improved decision making.
+\newblock In {\em Proc.\ of 4th International Conference on Business
+  Informatics Research}, BIR 2005, pages 1--11, 2005.
+
+\bibitem{hakone2017proact}
+A.~Hakone, L.~Harrison, A.~Ottley, N.~Winters, C.~Gutheil, P.~K. Han, and
+  R.~Chang.
+\newblock {PROACT}: Iterative design of a patient-centered visualization for
+  effective prostate cancer health risk communication.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  23(1):601--610, 2017.
+
+\bibitem{han2011varieties}
+P.~K. Han, W.~M. Klein, and N.~K. Arora.
+\newblock Varieties of uncertainty in health care: a conceptual taxonomy.
+\newblock {\em Medical Decision Making}, 31(6):828--838, 2011.
+
+\bibitem{han2011communication}
+P.~K. Han, W.~M. Klein, T.~Lehman, B.~Killam, H.~Massett, and A.~N. Freedman.
+\newblock Communication of uncertainty regarding individualized cancer risk
+  estimates: effects and influential factors.
+\newblock {\em Medical Decision Making}, 31(2):354--366, 2011.
+
+\bibitem{hjlbc07}
+B.~Harris, A.~C. Jacob, J.~M. Lancaster, J.~Buhler, and R.~D. Chamberlain.
+\newblock A banded {Smith-Waterman FPGA} accelerator for {Mercury BLASTP}.
+\newblock In {\em Proc. of 17th International Conference on Field Programmable
+  Logic and Applications}, Aug. 2007.
+
+\bibitem{hart1988development}
+S.~G. Hart and L.~E. Staveland.
+\newblock Development of {NASA-TLX} ({Task Load Index}): Results of empirical
+  and theoretical research.
+\newblock {\em Advances in Psychology}, 52:139--183, 1988.
+
+\bibitem{hrms10}
+M.~Hay, V.~Rastogi, G.~Miklau, and D.~Suciu.
+\newblock Boosting the accuracy of differentially private histograms through
+  consistency.
+\newblock {\em Proc.\ VLDB Endow.}, 3(1-2):1021--1032, Sept. 2010.
+
+\bibitem{HO13}
+J.~Hernandez-Orallo.
+\newblock {ROC} curves for regression.
+\newblock {\em Pattern Recognition}, 46(12):3395--3411, Dec. 2013.
+
+\bibitem{hertzum2004usable}
+M.~Hertzum, N.~J{\o}rgensen, and M.~N{\o}rgaard.
+\newblock Usable security and e-banking: Ease of use vis-a-vis security.
+\newblock {\em Australasian Journal of Information Systems}, 11(2), 2004.
+
+\bibitem{hintze1998violin}
+J.~L. Hintze and R.~D. Nelson.
+\newblock Violin plots: a box plot-density trace synergism.
+\newblock {\em The American Statistician}, 52(2):181--184, 1998.
+
+\bibitem{hssv15}
+C.-J. Ho, A.~Slivkins, S.~Suri, and J.~W. Vaughan.
+\newblock Incentivizing high quality crowdwork.
+\newblock In {\em Proc.\ of 24th International Conference on World Wide Web},
+  pages 419--429, 2015.
+
+\bibitem{HSV14}
+C.-J. Ho, A.~Slivkins, and J.~W. Vaughan.
+\newblock Adaptive contract design for crowdsourcing markets: Bandit algorithms
+  for repeated principal-agent problems.
+\newblock In {\em Proc. of Fifteenth ACM Conference on Economics and
+  Computation}, pages 359--376, 2014.
+
+\bibitem{HZVS12}
+C.-J. Ho, Y.~Zhang, J.~Vaughan, and M.~van~der Schaar.
+\newblock Towards social norm design for crowdsourcing markets.
+\newblock In {\em The 4th Human Computation Workshop (HCOMP)}, 2012.
+
+\bibitem{hullman2015hypothetical}
+J.~Hullman, P.~Resnick, and E.~Adar.
+\newblock Hypothetical outcome plots outperform error bars and violin plots for
+  inferences about reliability of variable ordering.
+\newblock {\em PloS one}, 10(11):e0142444, 2015.
+
+\bibitem{jackson2008displaying}
+C.~H. Jackson.
+\newblock Displaying uncertainty with shading.
+\newblock {\em The American Statistician}, 62(4):340--347, 2008.
+
+\bibitem{jbc08}
+A.~Jacob, J.~D. Buhler, and R.~D. Chamberlain.
+\newblock Accelerating {Nussinov RNA} secondary structure prediction with
+  systolic arrays on {FPGAs}.
+\newblock In {\em Proc.\ of IEEE International Conference on
+  Application-specific Systems, Architectures and Processors}, pages 191--196,
+  July 2008.
+
+\bibitem{jlbc07b}
+A.~Jacob, J.~Lancaster, J.~Buhler, and R.~D. Chamberlain.
+\newblock {FPGA}-accelerated seed generation in {Mercury BLASTP}.
+\newblock In {\em Proc.\ of 15th IEEE Symposium on Field-Programmable Custom
+  Computing Machines}, pages 97--106, Apr. 2007.
+
+\bibitem{jlbc07a}
+A.~Jacob, J.~Lancaster, J.~Buhler, and R.~D. Chamberlain.
+\newblock Preliminary results in accelerating profile {HMM} search on {FPGAs}.
+\newblock In {\em Proc.\ of 6th IEEE International Workshop on High Performance
+  Computational Biology}, Mar. 2007.
+
+\bibitem{jlbhc08}
+A.~Jacob, J.~Lancaster, J.~Buhler, B.~Harris, and R.~D. Chamberlain.
+\newblock Mercury {BLASTP}: Accelerating protein sequence alignment.
+\newblock {\em ACM Trans. on Reconfigurable Technology and Systems},
+  1(2):1--44, June 2008.
+
+\bibitem{jbc09}
+A.~C. Jacob, J.~D. Buhler, and R.~D. Chamberlain.
+\newblock Optimal runtime reconfiguration strategies for systolic arrays.
+\newblock In {\em Proc.\ of 19th International Conference on Field Programmable
+  Logic and Applications}, pages 162--167, Aug. 2009.
+
+\bibitem{jbc10b}
+A.~C. Jacob, J.~D. Buhler, and R.~D. Chamberlain.
+\newblock Design of throughput-optimized arrays from recurrence abstractions.
+\newblock In {\em Proc.\ of 21st IEEE International Conference on
+  Application-specific Systems, Architectures and Processors}, pages 133--140,
+  July 2010.
+
+\bibitem{jbc10a}
+A.~C. Jacob, J.~D. Buhler, and R.~D. Chamberlain.
+\newblock Rapid {RNA} folding: Analysis and acceleration of the {Zuker}
+  recurrence.
+\newblock In {\em Proc.\ of 18th IEEE International Symposium on
+  Field-Programmable Custom Computing Machines}, pages 87--94, May 2010.
+
+\bibitem{Jain91}
+R.~Jain.
+\newblock {\em The Art of Computer System Performance Analysis: Techniques for
+  Experimental Design, Measurement, Simulation and Modeling}.
+\newblock John Wiley \& Sons, Inc., New York, 1991.
+
+\bibitem{kampstra2008beanplot}
+P.~Kampstra.
+\newblock Beanplot: A boxplot alternative for visual comparison of
+  distributions.
+\newblock {\em Journal of Statistical Software}, 28(1):1--9, 2008.
+
+\bibitem{Kellaris14}
+G.~Kellaris, S.~Papadopoulos, X.~Xiao, and D.~Papadias.
+\newblock Differentially private event sequences over infinite streams.
+\newblock {\em Proc. VLDB Endow.}, 7(12):1155--1166, Aug. 2014.
+
+\bibitem{kniss2005statistically}
+J.~M. Kniss, R.~Van~Uitert, A.~Stephens, G.-S. Li, T.~Tasdizen, and C.~Hansen.
+\newblock Statistically quantitative volume visualization.
+\newblock In {\em Visualization, 2005. VIS 05. IEEE}, pages 287--294. IEEE,
+  2005.
+
+\bibitem{kbcfgl04}
+P.~Krishnamurthy, J.~Buhler, R.~Chamberlain, M.~Franklin, K.~Gyang, and
+  J.~Lancaster.
+\newblock Biosequence similarity search on the {Mercury} system.
+\newblock In {\em Proc.\ of IEEE 15th International Conference on
+  Application-specific Systems, Architectures and Processors}, pages 365--375,
+  Sept. 2004.
+
+\bibitem{kbcfgjl07}
+P.~Krishnamurthy, J.~Buhler, R.~D. Chamberlain, M.~A. Franklin, K.~Gyang,
+  A.~Jacob, and J.~Lancaster.
+\newblock Biosequence similarity search on the {Mercury} system.
+\newblock {\em Journal of VLSI Signal Processing}, 49(1):101--121, Oct. 2007.
+
+\bibitem{kp14}
+J.~S. Kuman and D.~R. Patel.
+\newblock A survey on {Internet of Things}: Security and privacy issues.
+\newblock {\em International Journal of Computer Applications}, 90(11), Mar.
+  2014.
+
+\bibitem{lbc05}
+J.~Lancaster, J.~Buhler, and R.~D. Chamberlain.
+\newblock Acceleration of ungapped extension in {Mercury BLAST}.
+\newblock In {\em Proc.\ of 7th Workshop on Media and Streaming Processors},
+  Nov. 2005.
+
+\bibitem{lbc09}
+J.~Lancaster, J.~Buhler, and R.~D. Chamberlain.
+\newblock Acceleration of ungapped extension in {Mercury BLAST}.
+\newblock {\em Microprocessors and Microsystems}, 33(4):281--289, June 2009.
+
+\bibitem{lnpr14}
+A.~H. Landberg, K.~Nguyen, E.~Pardede, and J.~W. Rahayu.
+\newblock $\delta$-dependency for privacy-preserving {XML} data publishing.
+\newblock {\em Journal of Biomedical Informatics}, 50:77--94, 2014.
+
+\bibitem{LL+14}
+C.~Li, D.~Y. Li, G.~Miklau, and D.~Suciu.
+\newblock A theory of pricing private data.
+\newblock {\em ACM Trans. Database Syst.}, 39(4):34:1--34:28, Dec. 2014.
+
+\bibitem{LR12}
+K.~Ligett and A.~Roth.
+\newblock Take it or leave it: Running a survey when privacy comes at a cost.
+\newblock In {\em Proc. of 8th International Conference on Internet and Network
+  Economics}, pages 378--391, 2012.
+
+\bibitem{lundstrom2007uncertainty}
+C.~Lundstr{\"o}m, P.~Ljung, A.~Persson, and A.~Ynnerman.
+\newblock Uncertainty visualization in medical volume rendering using
+  probabilistic animation.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  13(6):1648--1655, 2007.
+
+\bibitem{mkgv07}
+A.~Machanavajjhala, D.~Kifer, J.~Gehrke, and M.~Venkitasubramaniam.
+\newblock $l$-diversity: Privacy beyond $k$-anonymity.
+\newblock {\em ACM Trans. Knowledge Discovery from Data}, 1(1):3:1--3:52, Mar.
+  2007.
+
+\bibitem{McSherry09}
+F.~D. McSherry.
+\newblock Privacy integrated queries: An extensible platform for
+  privacy-preserving data analysis.
+\newblock In {\em Proc.\ of ACM SIGMOD International Conference on Management
+  of Data}, pages 19--30, New York, NY, USA, 2009. ACM.
+
+\bibitem{tippers}
+S.~Mehrotra, A.~Kobsa, N.~Venkatasubramanian, and S.~R. Rajagopalan.
+\newblock {TIPPERS}: A privacy cognizant {IoT} environment.
+\newblock In {\em Proc.\ of IEEE International Conference on Pervasive
+  Computing and Communication Workshops (PerCom Workshops)}, pages 1--6, Mar.
+  2016.
+
+\bibitem{Mossman99}
+D.~Mossman.
+\newblock Three-way {ROCs}.
+\newblock {\em Medical Decision Making}, 19(1):78--89, 1999.
+
+\bibitem{nkk13}
+H.~H. Nguyen, J.~Kim, and Y.~Kim.
+\newblock Differential privacy in practice.
+\newblock {\em Journal of Computing Science and Engineering}, 7(3):177--186,
+  Sept. 2013.
+
+\bibitem{ottley2012visually}
+A.~Ottley, B.~Metevier, P.~K. Han, and R.~Chang.
+\newblock Visually communicating {Bayesian} statistics to laypersons.
+\newblock Technical Report TR-2012-02, Tufts University, Medford, MA, USA,
+  2012.
+
+\bibitem{ottley2016improving}
+A.~Ottley, E.~M. Peck, L.~T. Harrison, D.~Afergan, C.~Ziemkiewicz, H.~A.
+  Taylor, P.~K. Han, and R.~Chang.
+\newblock Improving {Bayesian} reasoning: The effects of phrasing,
+  visualization, and spatial ability.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  22(1):529--538, 2016.
+
+\bibitem{ottley2015personality}
+A.~Ottley, H.~Yang, and R.~Chang.
+\newblock Personality as a predictor of user strategy: How locus of control
+  affects search strategies on tree visualizations.
+\newblock In {\em Proc.\ of 33rd ACM Conference on Human Factors in Computing
+  Systems}, pages 3251--3254. ACM, 2015.
+
+\bibitem{peck2013using}
+E.~M.~M. Peck, B.~F. Yuksel, A.~Ottley, R.~J. Jacob, and R.~Chang.
+\newblock Using {fNIRS} brain sensing to evaluate information visualization
+  interfaces.
+\newblock In {\em Proc.\ of SIGCHI Conference on Human Factors in Computing
+  Systems}, pages 473--482. ACM, 2013.
+
+\bibitem{politi2007communicating}
+M.~C. Politi, P.~K. Han, and N.~F. Col.
+\newblock Communicating the uncertainty of harms and benefits of medical
+  interventions.
+\newblock {\em Medical Decision Making}, 27(5):681--695, 2007.
+
+\bibitem{pothkow2011probabilistic}
+K.~P{\"o}thkow, B.~Weber, and H.-C. Hege.
+\newblock Probabilistic marching cubes.
+\newblock In {\em Computer Graphics Forum}, volume~30, pages 931--940. Wiley
+  Online Library, 2011.
+
+\bibitem{potter2009ensemble}
+K.~Potter, A.~Wilson, P.-T. Bremer, D.~Williams, C.~Doutriaux, V.~Pascucci, and
+  C.~R. Johnson.
+\newblock Ensemble-vis: A framework for the statistical visualization of
+  ensemble data.
+\newblock In {\em Data Mining Workshops, 2009. ICDMW'09. IEEE International
+  Conference on}, pages 233--240. IEEE, 2009.
+
+\bibitem{prassni2010uncertainty}
+J.-S. Pra{\ss}ni, T.~Ropinski, and K.~Hinrichs.
+\newblock Uncertainty-aware guided volume segmentation.
+\newblock {\em IEEE Transactions on Visualization \& Computer Graphics},
+  (6):1358--1365, 2010.
+
+\bibitem{rn10}
+V.~Rastogi and S.~Nath.
+\newblock Differentially private aggregation of distributed time-series with
+  transformation and encryption.
+\newblock In {\em Proc.\ of ACM SIGMOD International Conference on Management
+  of Data}, pages 735--746, New York, NY, USA, 2010. ACM.
+
+\bibitem{rodriguez2010toward}
+C.~Rodriguez, F.~Daniel, F.~Casati, and C.~Cappiello.
+\newblock Toward uncertain business intelligence: the case of key indicators.
+\newblock {\em IEEE Internet Computing}, 14(4):32--40, 2010.
+
+\bibitem{samarati01}
+P.~Samarati.
+\newblock Protecting respondents' identities in microdata release.
+\newblock {\em IEEE Trans. on Knowl. and Data Eng.}, 13(6):1010--1027, 2001.
+
+\bibitem{sanyal2009user}
+J.~Sanyal, S.~Zhang, G.~Bhattacharya, P.~Amburn, and R.~Moorhead.
+\newblock A user study to compare four uncertainty visualization methods for
+  {1D} and {2D} datasets.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  15(6), 2009.
+
+\bibitem{sanyal2010noodles}
+J.~Sanyal, S.~Zhang, J.~Dyer, A.~Mercer, P.~Amburn, and R.~Moorhead.
+\newblock Noodles: A tool for visualization of numerical weather model ensemble
+  uncertainty.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  16(6):1421--1430, 2010.
+
+\bibitem{Sarlin16}
+P.~Sarlin.
+\newblock Macroprudential oversight, risk communication and visualization.
+\newblock {\em Journal of Financial Stability}, 27:160--179, Dec. 2016.
+
+\bibitem{schneier16}
+B.~Schneier.
+\newblock Stop trying to fix the user.
+\newblock {\em IEEE Security Privacy}, 14(5):96--96, Sept. 2016.
+
+\bibitem{ss15}
+R.~Shokri and V.~Shmatikov.
+\newblock Privacy-preserving deep learning.
+\newblock In {\em Proc.\ of ACM SIGSAC Conf.\ on Computer and Communications
+  Security}, pages 1310--1321. ACM, 2015.
+
+\bibitem{spiegelhalter2011visualizing}
+D.~Spiegelhalter, M.~Pearson, and I.~Short.
+\newblock Visualizing uncertainty about the future.
+\newblock {\em Science}, 333(6048):1393--1400, 2011.
+
+\bibitem{sweeney02}
+L.~Sweeney.
+\newblock $k$-anonymity: A model for protecting privacy.
+\newblock {\em International Journal of Uncertainty, Fuzziness and
+  Knowledge-Based Systems}, 10(5):557--570, 2002.
+
+\bibitem{tak2014perception}
+S.~Tak, A.~Toet, and J.~van Erp.
+\newblock The perception of visual uncertaintyrepresentation by non-experts.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  20(6):935--943, 2014.
+
+\bibitem{vdlgw15}
+E.~Vasilomanolakis, J.~Daubert, M.~Luthra, V.~Gazis, A.~Wiesmaier, and
+  P.~Kikiras.
+\newblock On the security and privacy of {Internet of Things} architectures and
+  systems.
+\newblock In {\em Proc. of International Workshop on Secure Internet of Things
+  (SIoT)}, pages 49--57, Sept. 2015.
+
+\bibitem{wll15}
+J.~Wang, S.~Liu, and Y.~Li.
+\newblock A review of differential privacy in individual data release.
+\newblock {\em International Journal of Distributed Sensor Networks}, Jan.
+  2015.
+
+\bibitem{X13}
+D.~Xiao.
+\newblock Is privacy compatible with truthfulness?
+\newblock In {\em Proc. of 4th Conference on Innovations in Theoretical
+  Computer Science}, pages 67--86, 2013.
+
+\bibitem{xxy10}
+Y.~Xiao, L.~Xiong, and C.~Yuan.
+\newblock Differentially private data release through multidimensional
+  partitioning.
+\newblock In W.~Jonker and M.~Petkovi{\'{c}}, editors, {\em Proc.\ of 7th VLDB
+  Workshop on Secure Data Management}, pages 150--168. Springer Berlin
+  Heidelberg, Berlin, Heidelberg, 2010.
+
+\bibitem{ziemkiewicz2013visualization}
+C.~Ziemkiewicz, A.~Ottley, R.~J. Crouser, A.~R. Yauilla, S.~L. Su, W.~Ribarsky,
+  and R.~Chang.
+\newblock How visualization layout relates to locus of control and other
+  personality factors.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  19(7):1109--1121, 2013.
+
+\end{thebibliography}
