@@ -18,5 +18,10 @@ budget: budgetjustify.tex
 	dvips -t letter budgetjustify -o
 	ps2pdf budgetjustify.ps budgetjustify.pdf
 
+resubmit: resubmit.tex
+	latex resubmit
+	dvips -t letter resubmit -o
+	ps2pdf resubmit.ps resubmit.pdf
+
 clean:
 	/bin/rm -f *.aux *.ps *.log *.dvi *.bbl *.blg prop.pdf facilities.pdf 
